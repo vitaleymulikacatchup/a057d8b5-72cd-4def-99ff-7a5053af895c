@@ -382,7 +382,7 @@ export default function LandingPage() {
           mediaPosition="right"
           tagIcon={Mail}
           inputPlaceholder="your@email.com"
-          buttonText="Subscribe"
+          buttonText="Get Exclusive Offers"
           termsText="We respect your privacy. Unsubscribe anytime. By subscribing, you agree to receive promotional emails from LuxeStay."
         />
       </div>
